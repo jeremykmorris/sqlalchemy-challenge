@@ -1,0 +1,2 @@
+The section of code that I received help with & corrections with include Grant correct the beginning of the gitignore file. 
+My classmate Ben Burwinkel also submitted in the class slack channel a correction for the app.py in the engine=create_engine that includes sqlite+pysqlite followed by the relative file path, correcting this line of code allowed for the program to run and the hyperlink to appear in my the terminal. 
